@@ -6,8 +6,8 @@
 5. php artisan make:migration create_products_table
 6. php artisan migrate
 
-routes<Br>
-GET http://127.0.0.1:8000/api/products 
-DELETE http://127.0.0.1:8000/api/product/4
-POST http://127.0.0.1:8000/api/product
-PUT http://127.0.0.1:8000/api/product
+routes<br>
+GET http://127.0.0.1:8000/api/products<br>
+DELETE http://127.0.0.1:8000/api/product/4<br>
+POST http://127.0.0.1:8000/api/product<br>
+PUT http://127.0.0.1:8000/api/product<br>
