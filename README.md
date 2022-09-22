@@ -4,7 +4,8 @@
 3. php artisan serve
 4. crete db name 'shop'
 5. php artisan make:migration create_products_table
-6. php artisan migrate
+6. create table schema
+7. php artisan migrate
 
 routes<br>
 GET http://127.0.0.1:8000/api/products<br>
